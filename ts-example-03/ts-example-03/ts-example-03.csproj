@@ -24,7 +24,7 @@
   <ItemGroup>
     <Content Include="app.css" />
     <Content Include="index.html" />
-    <Content Include="plain.js" />
+    <Content Include="javascriptWithRuntimeDetectedErrors.js" />
     <Content Include="web.config" />
   </ItemGroup>
   <ItemGroup>
